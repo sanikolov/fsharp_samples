@@ -1,2 +1,2 @@
 # fsharp_samples
-code sample(s) written in F#
+code samples written in F#

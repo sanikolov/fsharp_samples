@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "SshTool", "SshTool\SshTool.fsproj", "{8910AB1F-FA5A-49AF-994F-9B8FECCA6410}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8910AB1F-FA5A-49AF-994F-9B8FECCA6410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8910AB1F-FA5A-49AF-994F-9B8FECCA6410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8910AB1F-FA5A-49AF-994F-9B8FECCA6410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8910AB1F-FA5A-49AF-994F-9B8FECCA6410}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DB081DE-DE13-430D-BA53-77687AD57702}
+	EndGlobalSection
+EndGlobal
